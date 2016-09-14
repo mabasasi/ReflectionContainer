@@ -6,4 +6,4 @@ During the creation...
 
 - author : mabasasi  
 - license : MIT License  
-- link(japanese) : http://mabasasi.memo.wiki/d/%a5%c8%a5%c3%a5%d7%a5%da%a1%bc%a5%b8  
+- link(japanese) : http://mabasasi.memo.wiki/d/Swing%20%b4%ca%b0%d7%a5%c0%a5%a4%a5%a2%a5%ed%a5%b0
